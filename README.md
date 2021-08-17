@@ -4,4 +4,4 @@ Documento HTML valido
 
 ## Autor
 
-* Armando Velarde
+* Armando Elias Velarde Campos
